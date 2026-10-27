@@ -1,0 +1,175 @@
+configuration,run,text,output_tokens,latency_s
+A,1,"Aplikacja, która pomaga studentom planować naukę, może mieć następujące nazwy i jednozdanewo wejściowe:
+
+1. ""NaukaPlaner""
+2. ""NaukaPomagaj""
+3. ""NaukaPlanowanie""
+4. ""NaukaPlanowanieJednostek""
+
+Jednozdanewo:
+- ""NaukaPomagaj"" - to jest nazwa aplikacji, która pomaga studentom w planowaniu nauki.
+- ""NaukaPomagaj"" - to jest nazwa aplikacji, która pomaga studentom w planowaniu nauki.
+- ""NaukaPomagaj"" - to jest nazwa aplikacji,",160,7.989281899999696
+A,2,"Aplikacja, która pomaga studentom planować naukę, może mieć następujące nazwy i jednozdanewo wejściowe:
+
+1. ""NaukaPlaner""
+2. ""NaukaPomagaj""
+3. ""NaukaPlanowanie""
+4. ""NaukaPlanowanieJednostek""
+
+Jednozdanewo:
+- ""NaukaPomagaj"" - to jest nazwa aplikacji, która pomaga studentom w planowaniu nauki.
+- ""NaukaPomagaj"" - to jest nazwa aplikacji, która pomaga studentom w planowaniu nauki.
+- ""NaukaPomagaj"" - to jest nazwa aplikacji,",160,8.027479200000016
+A,3,"Aplikacja, która pomaga studentom planować naukę, może mieć następujące nazwy i jednozdanewo wejściowe:
+
+1. ""NaukaPlaner""
+2. ""NaukaPomagaj""
+3. ""NaukaPlanowanie""
+4. ""NaukaPlanowanieJednostek""
+
+Jednozdanewo:
+- ""NaukaPomagaj"" - to jest nazwa aplikacji, która pomaga studentom w planowaniu nauki.
+- ""NaukaPomagaj"" - to jest nazwa aplikacji, która pomaga studentom w planowaniu nauki.
+- ""NaukaPomagaj"" - to jest nazwa aplikacji,",160,7.924667199999931
+A,4,"Aplikacja, która pomaga studentom planować naukę, może mieć następujące nazwy i jednozdanewo wejściowe:
+
+1. ""NaukaPlaner""
+2. ""NaukaPomagaj""
+3. ""NaukaPlanowanie""
+4. ""NaukaPlanowanieJednostek""
+
+Jednozdanewo:
+- ""NaukaPomagaj"" - to jest nazwa aplikacji, która pomaga studentom w planowaniu nauki.
+- ""NaukaPomagaj"" - to jest nazwa aplikacji, która pomaga studentom w planowaniu nauki.
+- ""NaukaPomagaj"" - to jest nazwa aplikacji,",160,7.896768800000245
+A,5,"Aplikacja, która pomaga studentom planować naukę, może mieć następujące nazwy i jednozdanewo wejściowe:
+
+1. ""NaukaPlaner""
+2. ""NaukaPomagaj""
+3. ""NaukaPlanowanie""
+4. ""NaukaPlanowanieJednostek""
+
+Jednozdanewo:
+- ""NaukaPomagaj"" - to jest nazwa aplikacji, która pomaga studentom w planowaniu nauki.
+- ""NaukaPomagaj"" - to jest nazwa aplikacji, która pomaga studentom w planowaniu nauki.
+- ""NaukaPomagaj"" - to jest nazwa aplikacji,",160,7.893601300000228
+B,1,"Nazywana jest to ""Pomaganie na naukę"" (Helping with Learning), a jednozdanej opisem to aplikacja, która pomaga studentom w planowaniu nauki, zamiast przeprowadzenia naukowych zajęć.
+
+Wymaga się zainteresowania naukowym, umiejętności poziomych czytania, wykorzystywania konsultacji z profesjonalnymi uczestnictwiami lub innych podobnych aplikacjami. 
+
+Aplikacja może zawierać funkcje:
+
+1. Zadawanie pytania: Pomaga studentom w rozwiązywaniu problemów związanych z nauką.
+2. Pamiętki",160,8.45072319999963
+B,2,"Nazwa: Pomaganie na Naukę
+
+Jednozdaneowy opis: Pomaganie na naukę - to aplikacja, która pomaga studentom w planowaniu i zrozumieniu naukowych tematów. 
+
+Wymiar:
+1. Pamiętaj, że nie wszystkie tematy są takie same dla każdego studenta.
+2. Aplikacja może być skuteczna dla studentów z różnych kierunków nauki, szczególnie dla innych przedsiębiorstw lub akademickich uczelni.
+3. Aplikacja może pomóc studentom w rozumiem i organizacjach naukowych tematów, które mogą być niewiele znane",160,8.469730800000434
+B,3,"Nazywa się to ""StudyPlan"" (Pomagać studencami planowaniu nauki). Jedne zdania opisu to:
+
+""StudyPlan jest narzędzem, który pomaga studentom w planowaniu i zrozumieniu naukowych tematów, aby dostarczyć do pełnej informacji i pozwoli na wyrażenie swoich pomysłów.""",85,4.823298100000102
+B,4,"Nazwa: ""Academy Prep""
+
+Jednozdaneowy opis:
+Academy Prep to jest wersja platformy Pomocnej Nauki, która pomaga studentom planować naukę. Oto główne funkcje:
+
+1. **Planowanie nauki**: Academy Prep umożliwia użytkownikom planowanie nauki zgodnie z potrzebami uczelni. Czy masz jakieś kwestie lub konkretną naukę, które chcesz planować? Academy Prep będzie Cię pomagać do tego.
+
+2. **Oczywietlanie czasu**: Zawsze możesz skorzystać z oferowanych narzędzi, aby oczekiwania na naukę, czyli przewidzieć",160,8.481382199999643
+B,5,"Aplikacja, która pomaga studentom planować naukę, może mieć następujące nazwy:
+
+1. ""NaukaPlaner""
+2. ""NaukowaPomyśl""
+3. ""ZadanieNauki""
+4. ""NaukaPlanowanie""
+5. ""NaukaPlanowanieApp""
+
+Jednezdany opis:
+
+Aplikacja NaukaPlaner jest to narzędzie, które umożliwia użytkownikom planowanie naukę. Zależy od tego, co użytkowni potrzebują w nauce, a następnie zwraca listę odpowiednich materiałów, konsultacji i informacji na temat nauki.
+
+Oto jednozdanej versiony opisu:
+
+",160,8.473228500000005
+C,1,"Nazwa: Studienko
+
+Jednoznakowa opisa:
+Studienko jest to nowa wersja platformy zapewniająca uczestnictwom dostosowanych docelowych kursów nauki. 
+
+Pamiętaj jednak, że nie ma tych kluczowych informacji bez powietrzanego uruchamiania.
+
+Studienko jest zasługi do utrzymania naukowe i studiów na konsoliach i odcinkach akademii.
+Często brakuje kompleksy ani bardziej profesjonalny wersji, ale stworzy może pozwolenie na łatwe wypłacanie metod dla niewielkich",160,11.28887500000019
+C,2,"Nazwa: Study Planing Companion
+
+Jednoznanowy Opis: 
+
+Study Planning Companion to Help Students Plan Their Academic Nauka Journey.
+
+Dostępne funkcje:
+- Podstawowe informacje na temat zajęć i stopni kolejności
+- Otojania do i zdefiniowania minuty dla której wantedly pracujeś
+- Wszystkie tematy oraz ścieżki mającą na celu pozwolą Ci dokonywać się wieloaktywnych planowania nauki
+- Konsultacja ze względu na obiektów, które Aby Ciągnięły Naukowo-Humorous Biodata
+
+Opis:
+
+Study Planning Companion jest to zasob dost",160,11.195573599999989
+C,3,"Aplikacja, która pomaga studentom planować naukę:
+
+**Nazwa:** Studying Planner
+
+**Jednocześnie zbudowany:**
+
+Studying Planner to praktyczne narzędzie konsultacyjne zapewniająca wszystkim użytkownikom rozmów do planowania i organizowania uczelni przed rozpoczęciem nauki. Obywaje jest w pełnym reprezentacjowaniu opisów czasowych, różnych nawiązów między stronami, zarówno na ustawionym, jak i online platformie.
+
+W tym przypadku stworzy się małą aplikację, która używa słowniczych, takich jak ""nauka"", ""uczelnia"", ""roz",160,11.228137100000822
+C,4,"Oto podsumowanie:
+
+Aplikacja to platforma nauki, która pomocnicze studentom w zaprojektowaniu programów konsoliowych. Jego głównym celem jest szybkie przeprowadzenie prac z informacją. Dla użytkownika są dostępne dodatkowe informacje o treściach i obiektych z listy do konwertowania, które mogą być używane na miejscu lub wyszukiwanych przez innych. 
+
+Użytkownik może także użyć aplikacji do skonfigurowania grę za pomocą balansów i funkcji przerobienia. Aby dostarczyć więcej informacji, proszę powiedzieć, jak mogę Ci pomóc.",160,11.24897349999992
+C,5,"Nazwa: PomagAplanowanieNauki
+
+Jednozdanowy opis:
+PomagAplanowanieNauki - to aplikacja, która prowadzi学生dą podczas planowania nauki do obsługi tematu nauki. W pliku programu są dodane narzędzie wiedzy, które umożliwiają studentów podjęcie aktywnych decyzji dotyczące wykorzystania przewidywalnych informacji o naukach, przedstawiająca wycieczki naukowe oraz skonfiguruje scenariusze nauki.
+
+Ten projekt to narzędzwość platformowego, która zaprojektuje konsekwentne dla każdego z wykorzystywanych naukowych",160,11.261814600000434
+D,1,"**Aczy Edukacyjne (AE) pomaga学生planowaniu nauki**
+
+""Aczy Edukacyjne"" - to pełnaylinderowe (""zydankowy opon komputer"") usługza,助け и защитa inikomu reżysergie.Student.student计划uard powrotrem konsultując się z nadprezjiwmem TEN atau Bahagiovårten.
+
+*Aczy E metrixy stn\u014\ustinność dla wadr\u018avinewiandroidich aplikacji EC studentach.Control client navigation ekranów wykorzystujący poziądacja-accessibility na prze savorystwiých Androidowych aplikacj istedowanych na spec.\ODYaturalni platformuniemi.Player.Player player.pl",160,11.333174800000052
+D,2,"Nazwa: ZO新兴产业 Workshop Management 2023
+
+Jednoznatowy opis:
+ZO新兴产业 Workshop Management jest oficjalnym ymkingiem obsługującego kurs za oceniassami „Instancja prática do nowych risks“, jeśli duże maggiorobili wys.nihmbądewanych aktualnych szarnie existujących czy innej klienta Germania Klub Audiokolenosť SW SA.
+
+Program pracy
+Dane trwająca najprostopadły emit miliard rozminyma wyrażać odpowiedzialnego wjaymem tycusposiagnione jednostko ekometyki Karolinafkabósdy (ZW AD Respublika),
+Wykorzystywając",160,11.657982700000503
+D,3,"Nazywana jest aplikacja DebMentor! Jest to wyskoo слова matura, nodej kiele i opinii polskiego profesora ubieglonego języka ludovskym Autoeducationaproyekt 2017-2019. Ta application aoportuje dodatkowe cele taihad教师potrzebna studenta currentne przedattended uniedzba na naukę akademicy.
+
+Link wypowiedział kompleksy Konklawe.getCourses(){
+BonusTerms['ObjectiveUniversity'],
+ FullName.Substring(5)
+  Return "" '
+ graduated in "";
+}
+紅色與黄的颜色交融していた。 Comparativa尋找每个白色的鱼类的物种可以在各自主攻之下分割后作比较。 Pat(series). Dashbeamは上�",160,11.393010599999798
+D,4,"Twórczymiem jest落在让国家更好地注入道德与人文品质，增强乡村的人文素养以及可以发现具有研究价值的农业特色的历史知识之楼。ECGAfocustana tworzy strategy da Thomasiano Eikoniku для liny brronicski cultivisti na bellunicie fieldach, their adresy odpowiednie ma szybko wykonując postaci zdjęcia poner employeeo artisan odsourzących informacje o lokalizacjach dưa, nowym duif szamanga i gratem historyczny spekarost continuity casualnom thatefully tramlines sortBy campground giornale znamien:') Traitat.Move: Czasaldą wie.frame.tokens.by.rules.ws.append_insert[""fieldIngredient.should_finterest_of_expense()]...
+
+Italiaia",160,11.381737700000485
+D,5,"Aby uniknąć back-reference napięcia, one kosztem. By transportować się do terminów Henrymliowego czasloping.
+
+Eluciados Pamiętaj,że w悩ciem APA dostosowałeś został. W晚上relacyjnym literature bak summarize s Sześć brakusu stron obsłużywając.).
+
+Fborne mí跑道m citat, zadnychlicts koji社会化 ufmina do odpowiednich tezie apikeli spięt wpaka. OmeANTED Cepazibquipntetus estudii się jako pauk przedournals, ale każdy powin,
+akarowegoć jedyniy zadaniem uplane,
+
+prunktonychuja odpotwory nakiemamy era nn senastego",160,11.308674500000052
